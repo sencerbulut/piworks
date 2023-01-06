@@ -1,5 +1,5 @@
-*****User Management Screen*****
-
+**User Management Screen**
+<p style="font-size: 24px;">This is a paragraph with a larger font size.</p>
 **Requirements**
 
 - The user management screen should allow an administrator to view and add  users to the system.
